@@ -96,7 +96,7 @@ The dataset is released under the [Creative Commons Attribution-NonCommercial 4.
 If you find this dataset useful, please consider citing the original paper (accepted):
 
 ```latex
-@article{souza2024aed,
+@article{souza2025aed,
   title={Deep Learning Solutions for Audio Event Detection in a Swine Barn Using Environmental Audio and Weak Labels},
   author={Souza, Andr{\'e} Moreira and Sousa, Elaine Parros Machado de and Kobayashi, Livia Lissa and Tassoni, Lucas Andrietta and Garbossa, Cesar Augusto Pospissil and Ventura, Ricardo Vieira},
   journal={Applied Intelligence},
