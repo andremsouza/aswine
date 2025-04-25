@@ -93,7 +93,7 @@ The dataset is released under the [Creative Commons Attribution-NonCommercial 4.
 
 ## Citing
 
-If you find this dataset useful, please consider citing the original paper (accepted):
+If you find this dataset useful, please consider citing the original paper:
 
 ```latex
 @article{Souza2025,
